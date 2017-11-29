@@ -39,7 +39,6 @@ cacheSolve <- function(x, ...) {
             inv
 }
 
-## Sample
 
 ## df <- matrix(c(2,2,3,4,4,3,1,3,9), c(3,3))
 
